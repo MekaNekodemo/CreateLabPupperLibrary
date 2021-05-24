@@ -5,9 +5,6 @@ from PupperAutomation.ActionLoop import ActionLoop
 import PupperAutomation.preLoadedQueues as Demos
 from PupperAutomation.run_robot import run_robot as robotLoop
 
-
-
-
 def main():
 
    if __name__ == "__main__":
